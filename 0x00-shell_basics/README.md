@@ -1,0 +1,1 @@
+thi script is about the absolute path name of the working directory
