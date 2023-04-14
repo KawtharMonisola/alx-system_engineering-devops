@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -p -v | sed -e 's/\(.*)\/$/\1\/g' | paste -sd","
