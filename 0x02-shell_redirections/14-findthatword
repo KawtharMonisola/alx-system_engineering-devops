@@ -1,1 +1,2 @@
-14-finthatword
+#!/bin/bash
+grep -c "bin" /etc/passwd
