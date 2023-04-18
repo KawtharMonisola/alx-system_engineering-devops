@@ -1,2 +1,0 @@
-#!/bin/bash
-for c1 in {a..z}; do for c2 in {a..z}; do echo "$c1$c2"; done; done | grep -v "oo"
